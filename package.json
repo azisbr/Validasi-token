@@ -1,0 +1,24 @@
+{
+  "name": "Addtoken x addakun frmnz",
+  "version": "1.0.0",
+  "description": "Sc Add Token By frmnz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegraf",
+    "github",
+    "mongodb",
+    "token-manager"
+  ],
+  "author": "frmn not devr",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^7.6.0",
+    "axios": "^1.7.2",
+    "telegraf": "^4.12.2"
+  }
+}
