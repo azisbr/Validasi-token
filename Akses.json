@@ -1,5 +1,6 @@
 {
-  "owners": [],
-  "moderators": [],
-  "resellers": []
+  "users": [
+    { "username": "zyy", "password": "123", "role": "member" },
+    { "username": "akiraa", "password": "911", "role": "owner" }
+  ]
 }
