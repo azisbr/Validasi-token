@@ -1,6 +1,7 @@
 {
   "users": [
     { "username": "dha", "password": "123", "role": "member" },
-    { "username": "akiraa", "password": "911", "role": "owner" }
+    { "username": "akiraa", "password": "911", "role": "owner" },
+    { "username": "tes", "password": "tis", "role": "owner" }
   ]
 }
